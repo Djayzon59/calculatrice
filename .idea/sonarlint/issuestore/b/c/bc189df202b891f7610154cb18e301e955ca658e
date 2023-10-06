@@ -1,0 +1,8 @@
+
+n	java:S116"TRename this field "OPERATORS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô£Ä¾þÿÿÿÿ
+k	java:S116"QRename this field "NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃøáÓúÿÿÿÿ
+œ
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Í™âûÿÿÿÿ
+6	java:S1312""Add a default case to this switch.(î­™o
+f
+java:S1858b"K"operator" is already a string, there's no need to call "toString()" on it.(ò•’‚ùÿÿÿÿ
